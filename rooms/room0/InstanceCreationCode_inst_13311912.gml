@@ -1,0 +1,1 @@
+horizontal_platform = true;
